@@ -1,5 +1,0 @@
-.env
-logs/
-*.log
-borradores/
-node_modules/
