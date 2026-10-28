@@ -1,0 +1,4 @@
+.env
+log/
+borradores/
+node_modules/
