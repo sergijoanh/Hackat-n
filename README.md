@@ -1,32 +1,33 @@
 # Hackatón ADSO 2026
 
-Sitio web informativo para la Hackatón ADSO 2026, un evento de 24 horas donde aprendices del SENA construyen soluciones web para negocios de la región.
+Sitio web informativo para la Hackatón ADSO 2026 del CDITI Dosquebradas.
+24 horas para construir una solución web que ayude a un negocio de la región.
 
-## Descripción del proyecto
+## Descripción
 
-Este proyecto contiene la página web del evento Hackatón ADSO 2026 organizado por el CDITI Dosquebradas. Incluye información sobre la agenda, inscripción y ubicación del evento.
+Este proyecto es la página de información oficial del evento Hackatón ADSO 2026,
+donde los aprendices del programa ADSO del SENA pueden consultar la agenda,
+inscribirse y encontrar la ubicación del evento.
 
-## Tecnologías utilizadas
+## Tecnologías
 
-- HTML5
-- CSS3
-- Git y GitHub
+- HTML5 semántico
+- CSS3 con diseño responsive
+- Git y GitHub para control de versiones
 
-## Cómo clonar y ejecutar
+## Cómo clonar el proyecto
 
-Para clonar el repositorio y ver el sitio localmente:
+Para obtener una copia local del repositorio, ejecuta:
 
 ```bash
 git clone https://github.com/sergijoanh/Hackat-n.git
 cd Hackat-n/evaluacion1-git-github
 ```
 
-Luego abre `index.html` en tu navegador.
+## Cómo verlo
 
-## Enlace al repositorio
+Abre el archivo `index.html` en tu navegador favorito para ver el sitio.
 
-Visita el repositorio en GitHub: [Hackatón ADSO 2026](https://github.com/sergijoanh/Hackat-n)
+## Enlace
 
-## Autor
-
-Sergi Joan Henao Gonzalez - Ficha 3349882 - Programa ADSO SENA
+Repositorio en GitHub: [Hackat-n](https://github.com/sergijoanh/Hackat-n)
