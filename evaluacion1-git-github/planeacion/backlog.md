@@ -36,4 +36,5 @@ Criterios de aceptación:
 
 Criterios de aceptación:
 
-<!-- TODO: escribe al menos 2 criterios con el formato Dado / cuando / entonces -->
+- **Dado** que estoy en el sitio, **cuando** pulso "Ubicación" en el menú, **entonces** la página baja a la sección de ubicación donde veo la dirección del CDITI.
+- **Dado** que quiero llegar al evento, **cuando** pulso el enlace del mapa, **entonces** se abre Google Maps o un servicio de mapas con la ubicación exacta del CDITI Dosquebradas.
