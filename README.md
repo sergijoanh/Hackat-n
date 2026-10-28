@@ -12,8 +12,8 @@ este es el repositorio de la evaluacion
 
 ## como verlo
 
-abre index.html en el navegador
+abre `index.html` en el navegador
 
-## dueño
+## link
 
-sergi joan henao gonzalez - https://github.com/sergijoanh/Hackat-n
+https://github.com/sergijoanh/Hackat-n
